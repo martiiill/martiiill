@@ -10,6 +10,8 @@ I've been coding, in a profissional way, for 4 years. I work mostly with Java.
 *   ✉️  You can contact me at [anaalicemartins@gmail.com](mailto:anaalicemartins@gmail.com)
 *   🧠  I'm learning NodeJs
 *   ⚡  Love reading!
+
+
 <a href="https://www.github.com/martiiill" target="_blank" rel="noreferrer"><img
                   src="https://img.shields.io/github/followers/martiiill?logo=github&style=for-the-badge&color=0891b2&labelColor=1c1917" /></a>
 
